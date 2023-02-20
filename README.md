@@ -1,20 +1,4 @@
-# Add-on template for Vaadin with an embedded Lit component 
-
-![clock-element](https://user-images.githubusercontent.com/991105/184157011-9cdd51bb-2a57-4698-9fbb-e539d382e99f.png)
-
-You should start from this project, if your add-on will be based on custom Lit HTML element (that you are not planning to publish through npm) and provide Java API for the rest of the application.
-As an example this project implements a simple clock-element to display current time based on browser. 
-
-## Add-on architecture
-![client-server-addon](https://user-images.githubusercontent.com/991105/211867227-2c71ee29-9ea6-4de0-a5e4-2bf53781628d.svg)
-
-### Alternative add-on templates
-
-If you wish to build and publish an add-on or extension in [Vaadin Directory](https://vaadin.com/directory), Vaadin provides the following three template projects:
- 1. [vaadin/addon-template](https://github.com/vaadin/addon-template): Create a composite component. This Java-only template is the easiest when extending Vaadin Java components.
- 2. **(this repo)** [vaadin/client-server-addon-template](https://github.com/vaadin/client-server-addon-template): Build a standalone, client-server TypeScript-Java component. This template provides you with a [Lit-based](https://github.com/lit/lit/) example to start with.
- 3. [vaadin/npm-addon-template](https://github.com/vaadin/npm-addon-template): Wrap a web component from [npmjs.com](https://npmjs.com/) as a Vaadin Java component.
-
+# Leaflet KML 
 
 ## Development instructions
 
